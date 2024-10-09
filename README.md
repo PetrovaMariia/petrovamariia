@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I study information and communication technology at LAB University of Applied Sciences. I’m currently learning IoT and programming languages.
 <!--
 **PetrovaMariia/petrovamariia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
